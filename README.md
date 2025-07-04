@@ -13,7 +13,7 @@ I'm a **second year Computer Engineering undergraduate** with a passion for the 
 - **Focus Areas:** Embedded systems, robotics, real-time applications,vehicle            software.
 
 ### 🚀 Goals
-- Contribute to the future of **vehicle and automation systems** by blending **AI** ,   **mechanical engineering** and ** software development**.
+- Contribute to the future of **vehicle and automation systems** by blending **AI** ,   **mechanical engineering** and **software development**.
 - Collaborate on open-source projects that push the boundaries of whats possible in      mobility.
 - Build smarter automotive solutions through both low-level and high-level               programming.
 - Learn through hands-on experience and connect with like-minded engineers and           creators.
