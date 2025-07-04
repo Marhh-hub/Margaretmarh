@@ -1,6 +1,6 @@
-# Hey there ! 🖐🏽I'm Margaret - Bwalya if you prefer.
+# Hey there ! 🖐🏽I'm Margaret - or Bwalya if you prefer.
 
-I'm a second year Computer Engineering undergraduate** with a passion for the **automotive industry 🚗🏎** , especially where software meets machines . Whether its embedded systems, vehicle diagnostics, or automation, I'm fascinated by how code drives modern mobility.✈
+I'm a **second year Computer Engineering undergraduate** with a passion for the **automotive industry 🚗🏎** , especially where software meets machines . Whether its embedded systems, vehicle diagnostics, or automation, I'm fascinated by how code drives modern mobility.✈
 
 ### 🧩 What I'm working on 
 -Developing **C++** , **Python** and **Matlab** projects focused on automation  systems.
